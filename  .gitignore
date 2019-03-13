@@ -1,0 +1,12 @@
+/node_modules
+node_modules
+config.js
+/etc
+# misc
+.DS_Store
+npm-debug.log*
+
+/coverage
+.idea
+.vscode
+.zip
